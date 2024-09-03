@@ -1,0 +1,1340 @@
+@media (max-width: 1024px){
+
+    .container{
+        width:1024px;
+    }
+    .header{
+        width: 1024px;
+    }
+    .header__logo{
+        margin-left: 32px;
+    }
+    .header__list{
+        width: 627px;
+        height: 16px;
+        justify-content: center;
+    }
+    .header__btn{
+        margin-right: 32px;
+        width: 230px;
+        height: 48px;
+        margin-left: 0px;
+    }
+    .hero{
+        width: 1024px;
+    }
+    .Glav{
+        width: 496px;
+        height: 18px;
+        margin: 16px 496px 54px 32px;
+        
+    }
+    .text_strah{
+        width: 714px;
+        height: 168px;
+        margin-left: 32px;
+    }
+    .text_avtor-liza {
+        width: 286px;
+        height: 20px;
+        margin-left: 32px;
+    }
+    .text_avtor-liza::after{
+        content: ' \22C5' "Self";
+        cursor: pointer;
+        color: #2963A3;
+    }
+    .img_swim{
+        width: 714px;
+        height: 392px;
+        margin-left: 32px;
+    }
+    .block__list{
+        width: 588px;
+        margin-left: 32px;
+    }
+    .zagolovok{
+        margin-left: 32px;
+        width: 173px;
+        height: 32px;
+    }
+    .text__zagol{
+        margin-left: 32px;
+        width: 714px;
+        height: 192px;
+    }
+    .main__opisanie{
+        width: 714px;
+        height: 162px;
+        margin-left: 32px;
+    }
+    .div__opisanie{
+        width: 666px;
+        height: 82px;
+    }
+    .main__trevoga{
+        margin-left: 32px;
+    }
+    .list__trevoga{
+        position: relative;
+        padding: 0px;
+        margin-left: 32px;
+        left: 24px;
+    }
+    .img-vsv{
+        margin-left: 32px;
+    }
+    .text-vsv{
+        margin-left: 32px;
+    }
+    .text__ust{
+        margin-left: 32px;
+    }
+    .main__grid_pyatno{
+        margin-left: 32px;
+    }
+    .pyatno{
+        margin-left: 236.5px;
+    }
+    .text__pyatno{
+        margin-left: 102px;
+    }
+    .main__text-kakudrugih{
+        margin-left: 32px;
+    }
+    .main__grid-block{
+        margin-left: 32px;
+    }
+    .bokovoepyatno{
+        display: none;
+    }
+    .main__upraj{
+        margin-left: 32px;
+        /* margin-top: 181px; */
+    }
+    .block__ruka{
+        margin-left: 32px;
+    }
+    .text__stress{
+        margin-left: 32px;
+    }
+    .main__upraj-two{
+        margin-left: 32px;
+    }
+    .block-pirstable{
+        margin-left: 32px;
+    }
+    .block__group{
+        margin-left: 32px;
+    }
+    .family__box{
+        margin-left: 32px;
+    }
+    .zadacha{
+        margin-left: 32px;
+    }
+    .main__upraj-three{
+        margin-left: 32px;
+    }
+    .main__nav-list{
+        display: none;
+    }
+    .otklik{
+        display: none;
+    }
+    .footerfamily{        
+        display: none;
+    }
+    .poloska{
+        display: none;
+    }
+    .poloskaoval{
+        display: none;
+    }
+    .pyatnomaloe{
+        display: none;
+    }
+    img{
+        margin: 0;
+    }
+    .family__box{
+        width: 222px;
+        height: 495px;
+        border-radius: 16px;
+        margin-left: 254px;
+    }
+    .family__img{
+        width: 181px;
+        height: 145px;
+    }
+    .family_zag{
+        width: 182px;
+        height: 78px;
+    }
+    .family__text{
+        width: 182px;
+        height: 120px;
+    }
+    .box_btn{
+        width: 182px;
+        height: 48px;
+        padding: 12px 16px 12px 16px;
+        gap: 8px;
+        border-radius: 4px;
+    }
+    .profile{
+        width: 222px;
+        height: 530px;
+        margin-left: 254px;
+    }
+    .circle-img{
+        margin: 24px 51px 0px 51px;
+    }
+    .fio{
+        position: relative;
+        width: 71px;
+        height: 28px;
+        left: 51.5px;
+    }
+    .fio-w{
+        width: 174px;
+        height: 24px;
+    }
+    .liniya{       
+        width: 174px;       
+    }
+    .info__Liliya{
+        width: 174px;
+    }
+    .opit{
+        position: relative;
+        width: 174px;
+        height: 20px;        
+    }
+    .rabota__pxih{
+        width: 174px;
+        height: 48px; 
+        text-align: left;       
+    } 
+    .info__item {
+        padding-top: 8px;
+    }
+    .info__list {
+        width: 174px;
+        padding: 0px;
+        position: relative;
+        width: 174px;
+        padding: 0px;
+        left: 15px;
+    }
+    .info__btnn{
+        position: relative;
+        top: 38px;
+        width: 174px;
+        height: 48px;        
+    }
+    .prazd{
+        position: relative;
+        width: 222px;
+        height: 292px;        
+        left: 255px;   
+        margin: 0px;  
+    }
+    .prazdnik__block{
+        width: 222px;
+        height: 308px;
+        margin-left: 254px;
+    }
+    .block__prazd{
+        width: 174px;
+        height: 260px;
+    }
+    .par__sessiya{
+        width: 174px;
+        height: 100px;
+    }
+    .imgred{
+        width: 79px;
+        height: 107px;
+        right: 65px;
+        top: 170px;
+    }
+    .imgblu{
+        width: 64px;
+        height: 123px;
+        right: 47px;
+        top: 17px;        
+    }
+    .cent__btn{
+        width: 108px;
+        height: 48px;
+    }
+    footer{
+        display: flex;
+        background-color: #2963a3;
+        width: 1024px;
+        height: 302px;
+        align-items: center;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .footer{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        flex-direction: row;
+        margin:0px;        
+    }
+    .footer__nav-block{
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+        width: 960px;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .footer__block-body{
+        margin-left: 38px;
+    }
+    .footer__list{
+        height: 184px;
+        display: flex;
+        flex-wrap: wrap;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 14px;
+        list-style: none;
+        gap: 16px;
+        width: 111px;
+        padding-left: 0px;
+    }
+    .footer__link{
+        font-family: Montserrat;
+        text-decoration: none;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-size: 16px;    
+    }
+    .center{
+        width: 450px;
+        height: 170px;
+        margin-top: -21px;
+    }
+    .footer__center-text{
+        font-size: 18px;
+        font-weight: 700;
+        color: #ffffff;
+        line-height: 25px;
+        width: 356px;
+        height: 52px;
+        margin: 0px;
+        padding: 0px;
+    }
+    .footer__input{
+        width: 384px;
+        height: 48px;
+        border-radius: 4px;
+        border: 1px;
+    }
+    .email{
+        width: 384px;
+        height: 48px;
+    }
+    .footer__btn_ex{
+        position: relative;
+        width: 64px;
+        height: 51px;
+        border-radius: 4px;
+        border: none;
+        padding: 14px 20px 14px 20px;
+        background-color: #16C8BB;
+        cursor: pointer;
+        top: -50px;
+        left: 326px;
+    }
+    .footer__btn_ex-x{
+        width: 24px;
+        height: 24px;
+    }
+    
+    .footer__uchastnik{
+        display: flex;
+        width: 221px;
+        height: 122px;
+        flex-wrap: wrap;
+        flex-direction: row;
+        margin-top: 40px;
+    }
+    .uchastnik-logo{
+        width: 221px;
+        height: 50px;
+    }
+    .text_two{
+        font-family: Montserrat;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 18px;
+        letter-spacing: 0.25px;
+        text-align: left;
+        color: #FFFFFF;
+        margin-top: 8px;
+        width: 486px;
+        opacity: 70%;
+    }
+    .poloskafooter{
+        width: 960px;
+        margin-left: 32px;
+    }
+    .komit{
+        margin-left: 32px;
+    }    
+    .burger-menu{
+        width: 18px;
+        cursor: pointer;
+        display: none;
+    }
+    
+}
+
+
+/* perehod */
+
+@media (max-width: 414px){
+    .container{
+        width:768px;
+    }
+    .header{
+        width: 768px;
+    }
+    .header__nav{
+        display: none;
+    }
+    .header__btn{
+        display: none;
+    }
+    .burger-active{
+        display: block;
+        margin: 18px 20px 18px 0px;
+        
+    }
+    .burger-menu span{
+        display: block;
+        width: 18px;
+        height: 3px;
+        background: #03B2A5;
+        margin: 3px 0;
+        cursor: pointer;
+    }
+    .hero{
+        width: 768px;
+        grid-template-columns: repeat(1, 100%);
+    }
+    .family__box{
+        position: relative;
+        grid-column: 1;
+        grid-row: 26 / 30;
+        width: 356px;
+        height: 481px;
+        left: 20px;
+        margin: 23px 16px 36px 0px;
+    }
+    .family__img{
+        width: 257px;
+        height: 206px;
+    }
+    .family_zag{
+        position: relative;
+        width: 212px;
+        height: 48px;       
+    }
+    .family__text{
+        width: 310px;
+        height: 80px;
+    }
+    .box_btn{
+        width: 310px;
+        height: 48px;
+    }
+    .profile{
+        position: relative;
+        grid-column: 1;
+        grid-row: 26 / 30;
+        width: 356px;
+        height: 481px;
+        left: 390px;
+        margin: 23px 20px 36px 0px;
+    }
+    .info__Liliya {
+        display: flex;
+        width: 250px;
+        height: 285px;
+        margin: 0px 52.5px 0px 52.5px;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        align-items: center;       
+    }
+    .fio{
+        margin-bottom: 0px;
+        left: 0px;
+    }
+    .fio-w{
+        margin-bottom: 0px;
+    }
+    .opit{
+        margin-bottom: 0px;
+    }
+    .rabota__pxih{
+        position: relative;
+        width: 336px;
+        height: 24px;
+        margin: 16px 0px 0px 0px;
+        left: 78px;    
+    }
+    .info__list{
+        width: 250px;
+        height: 20px;
+        margin: 0px;
+        left: 55px;
+    }
+    .info__btnn{
+        position: relative;
+        width: 250px;
+        height: 48px;
+        top: -25px;
+    }
+    .info__btnn{
+        width: 250px;
+        height: 48px;
+    }
+    .circle-img{
+        margin: 24px 117.5px 0px 117.5px;
+    }
+    .prazd{
+        grid-column: 1;
+        grid-row: 30 / 30;
+        left: 20px;
+        width: 356px;
+        height: 242px;
+    }
+    .prazdnik__block{
+        position: relative;
+        grid-column: 1;
+        grid-row: 30 / 30;
+        margin: 0px;
+        left: 394px;
+        width: 356px;
+        height: 248px;
+    }
+    .par__sessiya{
+        width: 291.6px;
+        height: 60px;
+    }
+    .cent{
+        position: relative;
+        bottom: 17px;
+    }
+    .cent__btn{
+        position: relative;
+        bottom: 48px;
+    }
+    .imgred{
+        width: 112px;
+        height: 106px;
+        top: 110px;
+        right: 145px;
+    }
+    .imgblu{
+        border-radius: 0px;
+        width: 137px;
+        height: 121px;
+        top: -44px;
+        right: 126px;
+    }
+    .main__upraj-three{
+        width: 728px;
+        margin-left: 20px;        
+    }
+    .zadacha{
+        width: 728px;
+        margin-left: 20px;
+    }
+    .block-pirstable {
+        width: 728px;
+        margin-left: 20px;
+    }
+    .main__upraj-two{
+        width: 728px;
+        margin-left: 20px;
+    }
+    .text__stress{
+        width: 728px;
+        margin-left: 20px;
+    }
+    .block__ruka{
+        width: 728px;
+        margin-left: 20px;
+    }
+    .list__trevoga{
+        width: 696px;
+        margin-left: 20px;
+    }
+    .main__upraj{
+        width: 728px;
+        margin-left: 20px;
+    }
+    .text__grid-block{
+        width: 699px;
+        margin-left: 20px;
+    }
+    .main__grid-block{
+        width: 728px;
+        margin-left: 20px;
+    }
+    .img__grid-block{
+        width: 294px;
+        height: 380px;
+    }
+    .text__grid-block-two{
+        width: 418px;
+        height: 380px;
+    }
+    .main__text-kakudrugih{
+        width: 728px;
+        margin-left: 20px;
+    }
+    .main__grid_pyatno{
+        width: 728px;
+        margin-left: 20px;
+    }
+    .img-vsv{
+        width: 728px;
+        height: 331px;
+        margin-left: 20px;
+    }
+    .list__trevoga{
+        width: 689px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .main__opisanie{
+        width: 728px;
+        margin-left: 20px;
+    }
+    .img_swim{
+        width: 728px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    footer{
+        width: 768px;
+        height: 100%;
+    }
+    .footer{
+        width: 768px;
+        height: 100%;
+    }
+    .footer__block-body{
+        width: 768px;
+        height: 454px;
+        margin: 0px;
+    }
+    .footer__nav-block{
+        display: grid;
+        grid-template-columns: 15% 2fr 1fr;
+        grid-template-rows: 60% 15%;
+        width: 728px;
+        margin-left: 20px;
+        margin-right: 15px;
+        gap: 24px;
+    }
+}
+/* perehod2 */
+@media (max-width: 414px){
+    .container{
+        width: 414px;
+    }
+    .header{
+        width: 414px;
+    }
+    .hero{
+        width: 414px;
+    }
+    .Glav{
+        width:374px;
+        height: 18px;        
+    }
+    .text_strah{
+        width: 374px;
+        height: 128px;
+        font-family: Montserrat;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 40px;
+        text-align: left;             
+    }
+    .text_avtor-liza{
+        width: 292px;
+        height: 20px;
+    }
+    .img_swim{
+        width: 374px;
+        height: 207px;
+       margin: 16px 20px 0px 20px;
+    }
+    .main__list{
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+        width: 288px;
+    }  
+    .main__list .list_item:nth-of-type(3),.main__list .list_item:nth-of-type(2){
+        display: none;
+    } 
+    .zagolovok{
+        width: 173px;
+        height: 32px;
+    }
+    .block__list{
+        width: 374px;
+        height: 181px;
+    }
+    .text__zagol{
+        width: 374px;
+        height: 304px;
+    }
+    .main__opisanie{
+        width: 374px;
+        height: 304px;
+    }
+    .div__opisanie{
+        position: relative;
+        width: 342px;
+        height: 152px;
+        margin: 0px;
+        left: 16px;
+        top: 26px;
+    }
+    .div__krimskaya{
+        position: relative;
+        width: 179px;
+        height: 24px;
+        top: 131px;
+        left: 16px;
+        margin: 0px;
+    }
+    .main__trevoga{
+        width: 374px;
+        height: 64px;
+    }
+    .trevoga__item{
+        width: 342px;
+        height: 168px;
+    }
+    .list__trevoga {
+        width: 374px;
+        height: 371px;
+    }
+    .img-vsv{
+        width: 374px;
+        height: 207px;
+    }
+    .text-vsv{
+        width: 374px;
+        height: 36px;
+    }
+    .text__ust{
+        width: 374px;
+        height: 168px;
+    }
+    .main__grid_pyatno{
+        width: 374px;
+        height: 168px;
+    }
+    .pyatno{
+        margin: 0px;
+        justify-self: center;
+    }
+    .text__pyatno{
+        margin: 0px;
+        width: 374px;
+        height: 144px;
+    }
+    .main__text-kakudrugih{
+        width: 374px;
+        height: 192px;
+    }
+    .main__grid-block{
+        width: 374px;
+        height: 800px;
+    }
+    .img__grid-block{
+        width: 374px;
+        height: 380px;
+    }
+    .text__grid-block-two {        
+        position: relative;
+        width: 374px;
+        height: 216px;
+        margin: 0px;
+        top: 404px;
+    }
+    .text__grid-block{
+        width: 374px;
+        height: 216px;
+        margin: 0px;
+        position: relative;
+        top: 55px;
+    }
+    .main__upraj{
+        width: 374px;
+        height: 328px;
+    }
+    .text__upraj{
+        position: relative;
+        width: 342px;
+        height: 264px;
+        margin: 0px;
+        left: 16px;
+    } 
+    .block__ruka{
+        display: block;
+        width: 374px;
+        height: 367px;
+    }
+    .ruka{
+        width: 374px;
+        height: 207px;
+    }
+    .text__ruka{
+        width: 374px;
+        height: 144px;
+    }
+    .text__stress{
+        width: 374px;
+        height: 168px;
+    }
+    .main__upraj-two{
+        width: 374px;
+        height: 328px;
+    }
+    .text__upraj-two{
+        position: relative;
+        width: 342px;
+        height: 264px;
+        margin: 0px;
+        left: 16px;
+    }
+    .block-pirstable{
+        display: grid;
+        width: 374px;
+        height: 862px;
+        gap: 0;
+    }
+    .pirstable{
+        grid-column: 1;
+        width: 374px;
+        height: 235px;
+    }
+    .dipresya{
+        grid-column: 1;
+        grid-row: 2;
+        width: 374px;
+        height: 168px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+    .dipresya-two{
+        grid-column: 1;
+        width: 374px;
+        height: 168px;
+    }
+    .block__group{
+        width: 374px;
+    }
+    .group{
+        position: relative;
+        margin: 0px;
+        left: 98px;
+    }
+    .zadacha{
+        width: 374px;
+        height: 192px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+    .main__upraj-three{
+        width: 374px;
+        height: 328px;
+    }
+    .text__upraj-three{
+        width: 342px;
+        height: 264px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+        position: relative;
+        margin: 0px;
+        left: 16px;
+    }
+    .profile{
+        grid-column: 1;
+        grid-row: 30;
+        margin: 0px;
+        left: 20px;
+    }
+    .prazd{
+        grid-row: 31;
+        width: 374px;
+        height: 280px;
+        top: 20px;
+    }
+    .prazdnik__block{
+        width: 374px;
+        height: 248px;
+        grid-row: 32;
+        margin: 0px;
+        left: 20px;
+        top: 44px;
+    }
+    footer{
+        width: 414px;
+    }
+    .footer__block-body{
+        width: 414px;
+        height: 100%;
+    }
+    .footer__nav-block{
+        width: 414px;
+        height: 100%;
+        grid-template-columns: repeat(2, 50%);
+        grid-template-rows: repeat(3,1fr);
+        margin: 0px;
+        padding: 0px;
+        gap: 0px;
+    }
+    .center{
+        margin-left: 19px;
+        grid-column: 1;
+        grid-row: 2;
+    }
+    .footer__uchastnik{
+        grid-column: 1;
+        grid-row: 3 / 4;
+        margin-left: 19px;
+    }
+    .footer__nav{
+        margin-left: 19px;
+    }
+    .footer__input{
+        width: 368px;
+    }
+    .text_two{
+        width: 349px;
+    }
+    .footer__btn_ex{
+        left: 307px;
+    }
+    .poloskafooter{
+        width: 374px;
+        height: 2px;
+        position: relative;
+        left: 19.5px;
+        margin: 0px;
+    }
+    .komit{
+        display: flex;
+        width: 374px;
+        height: 130px;
+        gap: 20px;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+}
+/* perehod3 */
+@media (max-width: 320px){
+    .container{
+        width: 320px;
+    }
+    .header{
+        width: 320px;
+    }
+    .Glav{
+        width:288px;
+        height: 18px;        
+    }
+    .text_strah{
+        width: 288px;
+        height: 96px;
+        font-family: Montserrat;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+        text-align: left;         
+    }
+    .text_avtor-liza{
+        width: 292px;
+        height: 20px;
+    }
+    .img_swim{
+        width: 288px;
+        height: 160px;
+        margin: 16px 16px 16px 16px;
+    }
+    .main__list{
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        width: 256px;
+        padding: 0px;
+        position: relative;
+        left: 16px;
+    }  
+    .main__list .list_item:nth-of-type(3),.main__list .list_item:nth-of-type(2){
+        display: none;
+    } 
+    .zagolovok{
+        width: 173px;
+        height: 32px;
+    }
+    .block__list{
+        width: 288px;
+        height: 184px;
+    }
+    .text__zagol{
+        width: 288px;
+        height: 306px;
+    }
+    .main__opisanie{
+        width: 288px;
+        height: 213px;
+    }
+    .div__opisanie{
+        position: relative;
+        width: 256px;
+        height: 216px;
+        margin: 0px;
+        left: 16px;
+        top: 26px;
+    }
+    .div__krimskaya{
+        position: relative;
+        width: 179px;
+        height: 24px;
+        top: 155px;
+        left: 16px;
+        margin: 0px;                
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        text-align: left;
+    }
+    .main__trevoga{
+        width: 288px;
+        height: 52px;
+        font-family: Montserrat;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 26px;
+        text-align: left;
+    }
+
+    .trevoga__item{
+        width: 256px;
+        height: 216px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+    .list__trevoga {
+        width: 256px;
+        height: 456px;
+        left: 30px;        
+    }
+    .img-vsv{
+        width: 288px;
+        height: 160px;
+    }
+    .text-vsv{
+        width: 288px;
+        height: 36px;
+    }
+    .text__ust{
+        width: 288px;
+        height: 216px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+    .main__grid_pyatno{
+        width: 288px;
+        height: 176px;
+        align-items: center;
+    }
+    .pyatno{
+        width: 240px;
+        height: 168px;
+        justify-self: center;
+    }
+    .text__pyatno{
+        margin: 0px;
+        width: 288px;
+        height: 168px;
+    }
+    .main__text-kakudrugih{
+        width: 288px;
+        height: 264px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+    .main__grid-block{
+        width: 288px;
+        height: 900px;
+    }
+    .img__grid-block{
+        width: 288px;
+        height: 380px;
+    }
+    .text__grid-block-two {        
+        position: relative;
+        width: 288px;
+        height: 288px;
+        margin: 0px;
+        top: 404px;
+    }
+    .text__grid-block{
+        width: 288px;
+        height: 216px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+        top: -4px;        
+    }
+    .main__upraj{
+        width: 288px;
+        height: 424px;
+    }
+    .text__upraj{
+        position: relative;
+        width: 256px;
+        height: 360px;
+        margin: 0px;
+        left: 16px;
+    } 
+    .block__ruka{
+        display: block;
+        width: 288px;
+        height: 344px;
+    }
+    .ruka{
+        width: 288px;
+        height: 160px;
+    }
+    .text__ruka{
+        width: 288px;
+        height: 168px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+    .text__stress{
+        width: 288px;
+        height: 216px;
+    }
+    .main__upraj-two{
+        width: 288px;
+        height: 424px;
+    }
+    .text__upraj-two{
+        position: relative;
+        width: 256px;
+        height: 360px;
+        margin: 0px;
+        left: 16px;
+    }
+    .block-pirstable{
+        display: grid;
+        width: 288px;
+        height: 940px;
+        gap: 0;
+    }
+    .pirstable{
+        grid-column: 1;
+        width: 288px;
+        height: 235px;
+    }
+    .dipresya{
+        grid-column: 1;
+        grid-row: 2;
+        width: 288px;
+        height: 216px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+    .dipresya-two{
+        grid-column: 1;
+        width: 288px;
+        height: 216px;
+    }
+    .block__group{
+        width: 288px;
+    }
+    .group{
+        position: relative;
+        margin: 0px;
+        left: 98px;
+        left: 43px;
+        top: 13px;
+    }
+    .zadacha{
+        width: 288px;
+        height: 264px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+    }
+    .main__upraj-three{
+        width: 288px;
+        height: 424px;
+    }
+    .text__upraj-three{
+        position: relative;
+        width: 256px;
+        height: 360px;
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: left;
+        position: relative;
+        margin: 0px;
+        left: 16px;
+    }
+    .family__box{
+        width: 288px;
+        height: 512px; 
+    }
+    .family__text{
+        width: 239px;
+        height: 100px;
+    }
+    .box_btn{
+        width: 239px;
+        height: 48px;
+    }
+    .profile{
+        width: 288px;
+        height: 481px;
+        grid-column: 1;
+        grid-row: 30;
+        margin: 0px;
+        left: 20px;
+    }
+    .info__btnn{
+        width: 250px;
+    }
+
+    .prazd{
+        grid-row: 31;
+        width: 288px;
+        height: 292px;
+    }
+    .prazdnik__block{
+        width: 288px;
+        height: 252px;
+        grid-row: 32;
+        margin: 0px;
+        left: 20px;
+        top: 24px;
+    }
+    .imgred{
+        width: 86px;
+        height: 82px;
+        right: 170px;
+        top: 138px;
+    }
+    .imgblu{
+        width: 105px;
+        height: 94px;
+        right: 166px;
+        top: -41px;
+    }
+    footer{
+        width: 320px;
+    }
+    .footer{
+        width: 320px;
+    }
+    .footer__block-body{
+        width: 320px;
+    }
+    .footer__nav-block{
+        width: 320px;
+    }
+    .center{
+        width: 288px;
+        height: 200px;
+    }
+    .footer__center-text{
+        width: 288px;
+        height: 78px;
+    }
+    .footer__input{
+        width: 288px;
+    }
+    .text_two{
+        width: 288px;
+        height: 72px;
+    }
+    .email{
+        width: 288px;
+        
+    }
+    .footer__btn_ex {
+        display: none;
+        /* top: -50px;
+        left: 229px; */
+    }
+    .poloskafooter{
+        width: 374px;
+        height: 2px;
+        position: relative;
+        left: 19.5px;
+        margin: 0px;
+    }
+    .komit{
+        display: flex;
+        width: 374px;
+        height: 130px;
+        gap: 20px;
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+}
